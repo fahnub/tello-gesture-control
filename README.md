@@ -243,7 +243,7 @@ Module for FPS measurement.
 * [Tello SDK python interface](https://github.com/damiafuentes/DJITelloPy)
 
 # Original Author
-Nikita Kiselov(https://github.com/kinivi)
+Nikita Kiselov (https://github.com/kinivi)
  
 # License 
 tello-gesture-control is under [Apache-2.0 License](LICENSE).
