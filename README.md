@@ -28,10 +28,6 @@ DJI Tello is a perfect drone for any kind of programming experiments. It has a r
 
 Mediapipe is an amazing ML platform with many robust solutions like Face mesh, Hand Keypoints detection and Objectron. Moreover, their model can be used on the mobile platforms with on-device acceleration.
 
-Here is a starter-pack that you need:
-
-<img alt="starter_pack" width="80%" src="https://user-images.githubusercontent.com/13486777/111294166-b65e3680-8652-11eb-8225-c1fb1e5b867d.JPG">
-
 ## Setup
 ### 1. Installing pip packages
 First, we need to install python dependencies. Make sure you that you are using `python3.7`
