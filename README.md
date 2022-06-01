@@ -49,9 +49,6 @@ pip3 install -r requirements.txt
 ### 2. Connect Tello
 Turn on drone and connect computer to its WiFi
 
-<img width="346" alt="wifi_connection" src="https://user-images.githubusercontent.com/13486777/110932822-a7b30f00-8334-11eb-9759-864c3dce652d.png">
-
-
 Next, run the following code to verify connectivity
 
 ```sh
@@ -96,9 +93,6 @@ python3 main.py
 ```
 
 This script will start the python window with visualization like this:
-
-<img width="60%" alt="window" src="https://user-images.githubusercontent.com/13486777/111294470-09d08480-8653-11eb-895d-a8ca9f6a288d.png">
-
 
 ### Keyboard control
 To control the drone with your keyboard at any time - press the `k` key.
