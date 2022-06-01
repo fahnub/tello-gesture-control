@@ -242,7 +242,7 @@ Module for FPS measurement.
 * [MediaPipe Hand gesture recognition (by Kazuhito00)](https://github.com/Kazuhito00/hand-gesture-recognition-using-mediapipe)
 * [Tello SDK python interface](https://github.com/damiafuentes/DJITelloPy)
 
-# Author
+# Original Author
 Nikita Kiselov(https://github.com/kinivi)
  
 # License 
